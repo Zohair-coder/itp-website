@@ -79,6 +79,12 @@ const config = {
             position: 'left',
             label: 'Lectures',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'activitiesSidebar',
+            position: 'left',
+            label: 'Activites',
+          },
         ],
       },
       footer: {
@@ -94,6 +100,10 @@ const config = {
               {
                 label: 'Lectures',
                 to: '/lectures',
+              },
+              {
+                label: 'Activities',
+                to: '/activities',
               },
             ],
           },

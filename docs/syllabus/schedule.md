@@ -1,7 +1,6 @@
 ---
 title: Course Schedule
 sidebar_position: 2
-slug: /schedule
 ---
 
 # Course Schedule
