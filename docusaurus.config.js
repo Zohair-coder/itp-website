@@ -116,7 +116,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Zohair ul Hasan - Introduction to Python`,
+        copyright: `Copyright © ${new Date().getFullYear()} Zohair ul Hasan - Introduction to Programming`,
       },
       prism: {
         theme: prismThemes.github,
