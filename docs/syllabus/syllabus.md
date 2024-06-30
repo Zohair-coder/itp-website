@@ -6,8 +6,6 @@ slug: /
 
 # Syllabus
 
-[PDF Version](/syllabus.pdf)
-
 ## Instructor Information
 
 **Name**: Zohair ul Hasan
