@@ -34,6 +34,8 @@ slug: /
 
 **Course Website**: [itp.zohair.dev](https://itp.zohair.dev/)
 
+**Optional Book**: [Automate the Boring Stuff with Python (free and online)](https://automatetheboringstuff.com/)
+
 ## Course Description
 
 This comprehensive course is designed for high school students with no prior programming experience. It will introduce the fundamentals of Python 3, covering essential programming concepts and techniques. Students will learn to write and debug code, understand basic data structures, and work with libraries. By the end of the bootcamp, students will have a solid foundation in Python and the skills to confidently tackle real-world tasks.
