@@ -26,6 +26,8 @@ slug: /
 
 **Dates**: 1st July 2024 - 24th July 2024
 
+**Days**: Monday, Tuesday, Wednesday
+
 **Time**: 10am - 12pm
 
 **Classroom**: Conference Room
