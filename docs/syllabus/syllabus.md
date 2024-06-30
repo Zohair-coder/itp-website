@@ -12,6 +12,8 @@ slug: /
 
 **Email**: zohair.ul.hasan@gmail.com
 
+**WhatsApp**: +1 (215)-315-4989
+
 ## Class Information
 
 **Dates**: 1st July 2024 - 24th July 2024
