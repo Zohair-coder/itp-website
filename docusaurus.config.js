@@ -103,7 +103,7 @@ const config = {
               },
               {
                 label: 'Activities',
-                to: '/activities',
+                to: '/activities/replit-setup',
               },
             ],
           },

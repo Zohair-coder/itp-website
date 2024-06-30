@@ -1,5 +1,5 @@
 ---
-title: Replit Setup
+title: 1. Replit Setup
 sidebar_position: 1
 ---
 
