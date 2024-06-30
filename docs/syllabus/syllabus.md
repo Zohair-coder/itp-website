@@ -14,6 +14,12 @@ slug: /
 
 **WhatsApp**: +1 (215)-315-4989
 
+## Teacher Assistant Information
+
+**Name**: Hamza Malik
+
+**WhatsApp**: +92 (324)-905-7409
+
 ## Class Information
 
 **Dates**: 1st July 2024 - 24th July 2024
