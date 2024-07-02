@@ -9,7 +9,7 @@ sidebar_position: 4
 
 In this activity, we'll be writing our first actual Python program. We'll be creating a simple program that asks the user for their name and age, and then prints out a message based on these inputs.
 
-1. Open up [Replit](https://replit.com), and open your Python Repl. If you don't have one set up, follow the instructions in the [Replit Setup](/docs/activities/replit-setup) activity.
+1. Open up [Replit](https://replit.com), and open your Python Repl. If you don't have one set up, follow the instructions in the [Replit Setup](/activities/replit-setup) activity.
 
 2. Paste the following code into the code editor:
 
