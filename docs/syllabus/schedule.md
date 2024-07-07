@@ -7,7 +7,7 @@ sidebar_position: 2
 
 | Week | Content |
 | ---- | ------- |
-| 1    | Course Overview, Python Setup |
-| 2    | Python Data Structure Basics, Basic Python Syntax |
-| 3    | Basic Object Oriented Programming |
-| 4    | Errors and Exception Handling |
+| 1    | Course Overview, Replit Setup, Python Basics, Flow Control, Using the Debugger |
+| 2    | Functions, Lists, Dictionaries |
+| 3    | Manipulating Strings, Setting up Python locally, Demoing small projects for inspiration using API's and third party libraries, Discussing project ideas |
+| 4    | Working on your own project |
