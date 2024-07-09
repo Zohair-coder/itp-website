@@ -18,6 +18,7 @@ We can use a list of lists to represent the two-dimensional field. The inner lis
 import random, time, copy
 WIDTH = 60
 HEIGHT = 20
+FRAMES_PER_SECOND = 60
 
 # Create a list of list for the cells:
 nextCells = []
@@ -80,7 +81,7 @@ numNeighbors == 3):
             else:
                 # Everything else dies or stays dead:
                 nextCells[x][y] = ' '
-    time.sleep(1) # Add a 1-second pause to reduce flickering.
+    time.sleep(1/FRAMES_PER_SECOND) # Add a 1-second pause to reduce flickering.
 ```
 
 Let’s look at this code line by line, starting at the top.
@@ -90,6 +91,7 @@ Let’s look at this code line by line, starting at the top.
 import random, time, copy
 WIDTH = 60
 HEIGHT = 20
+FRAMES_PER_SECOND = 60
 ```
 
 First we import modules that contain functions we’ll need, namely the `random.randint()`, `time.sleep()`, and `copy.deepcopy()` functions.
@@ -180,10 +182,10 @@ numNeighbors == 3):
             else:
                 # Everything else dies or stays dead:
                 nextCells[x][y] = ' '
-    time.sleep(1) # Add a 1-second pause to reduce flickering.
+    time.sleep(1/FRAMES_PER_SECOND) 
 ```
 
-Now that we know the number of living neighbors for the cell at `currentCells[x][y]`, we can set `nextCells[x][y]` to either '#' or ' '. After we loop over every possible x- and y-coordinate, the program takes a 1-second pause by calling `time.sleep(1)`. Then the program execution goes back to the start of the main program loop to continue with the next step.
+Now that we know the number of living neighbors for the cell at `currentCells[x][y]`, we can set `nextCells[x][y]` to either '#' or ' '. After we loop over every possible x- and y-coordinate, the program takes a 1/60-second pause by calling `time.sleep(1/FRAMES_PER_SECOND)`. Then the program execution goes back to the start of the main program loop to continue with the next step.
 
 Several patterns have been discovered with names such as “glider,” “propeller,” or “heavyweight spaceship.” The glider pattern results in a pattern that “moves” diagonally every four steps. You can create a single glider by replacing this line in our conway.py program:
 
